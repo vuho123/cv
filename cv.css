@@ -1,0 +1,133 @@
+
+    
+
+#flex-contain{
+    width: 700px;
+    height: 1000px;
+    background: darkslategrey;
+    margin: 0px 0px 0px 400px;
+}
+#flex-box{
+    background-color: sandybrown;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+
+
+    display: block;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    overflow: hidden;
+
+   
+    
+}
+#info{
+    display: flex;
+    justify-content: center; 
+    text-decoration-color: white;
+    color: tomato;
+    font-size: xx-large;
+    
+    
+}
+
+
+
+
+#test {
+    color:white;
+    font: larger;
+}
+#Namsinh {
+    font:xx-large;
+    color:white;
+    
+}
+#body {
+    color:white;
+}
+#activity{
+    display: flex;
+   justify-content: center;
+    color: tomato;
+}
+#hoa {
+    color:white
+}
+#hd1 {
+    color: mistyrose;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    
+}
+#school {
+    color:white;
+    font:xx-large;
+    
+}
+#listitem1 {
+    color:white;
+}
+#listitem2 {
+    color:white;
+}
+#listitem3 {
+    color:white;
+}
+#hd2 {
+    color:white;
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+}
+#listitem4 {
+    color:white;
+}
+#listitem5{
+    color:white;
+}
+#interests {
+    color: tomato;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+}
+#li6 {
+    color:white;
+}
+#li7 {
+    color:white;
+}
+#li8 {
+    color:white;
+}
+#li9 {
+    color:white;
+}
+#contact {
+    color:tomato;
+    display: flex;
+    justify-content: center;
+}
+#li10 {
+    color:white;
+}
+#li11 {
+    color:white;
+}
+#li12 {
+    color:white;
+}
+#quote {
+    color:tomato;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+}
+#quote1 {
+    color:white;
+}
+#quote2 {
+    color:white;
+}
